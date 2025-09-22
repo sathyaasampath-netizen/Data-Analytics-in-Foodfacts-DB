@@ -26,9 +26,7 @@ The project explores relationships between food processing levels, nutrition, an
 - **Case Study Research Questions**
   - **RQ1**: Do ultra-processed foods (NOVA 4) have higher fat content than minimally processed foods (NOVA 1)?  
   - **RQ2**: Is there a nutritional difference between organic vs. non-organic products?  
-  - **RQ3**: How do vegan/vegetarian labeled products compare nutritionally?  
-  - **RQ4**: Are multi-claim labeled foods different from single-claim foods?
-
+ 
 ---
 
 ## 🔧 Tools & Technologies
